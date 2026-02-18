@@ -10,7 +10,7 @@ export function Hero() {
             <div className="hero-bg"></div>
             <div className="hero-content">
                 <p className="hero-greeting">Hello, I'm</p>
-                <h1 className="hero-name">Biswa</h1>
+                <h1 className="hero-name">Pallab</h1>
                 <h2 className="hero-title">
                     <span className="typing-text">{typedText}</span>
                     <span className="cursor">|</span>
